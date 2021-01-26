@@ -1,0 +1,18 @@
+{
+  "name": "SynC-clan-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "date-utils": "^1.2.21",
+    "discord.js": "^12.5.1",
+    "discord.js-reaction-controller": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
