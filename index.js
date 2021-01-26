@@ -1,10 +1,10 @@
 const http = require('http');
     http
-	    .createServer(function(req, res) {
-		    res.write('起動中');
-    		res.end();
-	    })
-	    .listen(8080);
+        .createServer(function(req, res) {
+            res.write('起動中');
+        	res.end();
+        })
+        .listen(8080);
 
 const discord = require('discord.js');
 const client = new discord.Client();
